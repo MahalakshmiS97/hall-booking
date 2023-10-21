@@ -14,7 +14,7 @@ View Booked Details: https://hall-booking-6kjl.onrender.com/viewbooking
 
 List Customed with booked date: https://hall-booking-6kjl.onrender.com/customers
 
-Book Room By ID: https://hall-booking-6kjl.onrender.com/booking/:id
+Book Room By ID: https://hall-booking-6kjl.onrender.com/booking/0
 
 POST Method : Path Variable : id, Sample Data:
 {

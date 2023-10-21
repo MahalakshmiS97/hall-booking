@@ -5,11 +5,11 @@ View Available Room : https://hall-booking-6kjl.onrender.com/rooms
 Creating New Room: https://hall-booking-6kjl.onrender.com/rooms
 POST Method: Sample Data: 
 {
-            "roomId": "3",
-            "seatsAvailable": "20",
-            "amenities": "Home Theatre",
-            "pricePerhr": "300"
-}                       
+ "roomId": "3",
+ "seatsAvailable": "20",
+ "amenities": "Home Theatre",
+ "pricePerhr": "300"
+}                                  
 View Booked Details: https://hall-booking-6kjl.onrender.com/viewbooking
 
 List Customed with booked date: https://hall-booking-6kjl.onrender.com/customers
